@@ -9,3 +9,6 @@ pokernews.com###main > div.limitWidth > section.module.module--casino:nth-child(
 pokernews.com##footer.siteFooter:nth-child(9) > div.siteFooter__rooms:nth-child(2)
 pokernews.com##.inner
 pokernews.com##.siteFooter__rooms
+pokernews.com##footer.siteFooter:nth-child(10)
+pokernews.com###main > div.limitWidth > div.subscribeWidget:last-child
+pokernews.com###spotlight
