@@ -1,0 +1,11 @@
+pokernews.com###sideBar > div.virgutis.topHighligts:first-child
+pokernews.com###main > div.limitWidth > div.virgutis.virgutis--top:nth-child(2)
+pokernews.com##.virgutis
+pokernews.com##.conversionBanner
+pokernews.com###sideBar > section.topRooms:nth-child(3)
+pokernews.com###sideBar > div.subscribeWidget:nth-child(2)
+pokernews.com###main > div.limitWidth > section.module.module--promotions:nth-child(10)
+pokernews.com###main > div.limitWidth > section.module.module--casino:nth-child(12)
+pokernews.com##footer.siteFooter:nth-child(9) > div.siteFooter__rooms:nth-child(2)
+pokernews.com##.inner
+pokernews.com##.siteFooter__rooms
